@@ -1,1 +1,2 @@
 # Classification-using-Decision-Tree-and-Random-Forest-models
+In this notebook, I worked with a dataset that included tree observations from four areas of the Roosevelt National Forest in Colorado. The dataset contained 581,012 samples with 55 columns and I classified it using decision tree and random forest models. Also I provided 4 evaluation metrics (accuracy, precision, recall, and f1 score) along with a confusion matrix for both training and test data.
